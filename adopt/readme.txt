@@ -2,8 +2,8 @@
 Contributors: goadopt, andersonfrancisco, matheuscavin, brunoggodoi, arquino, shiriu
 Tags: CCPA,LGPD,GDPR,POPIA,PIPEDA
 Requires at least:  5.9.3
-Tested up to: 6.3.1
-Stable tag: 1.0.4
+Tested up to: 6.7.1
+Stable tag: 1.0.6
 Requires PHP: 7.0
 License: GPLv2 or later
  
@@ -13,7 +13,7 @@ License: GPLv2 or later
 
 [AdOpt’s Cookie Banner plugin](https://goadopt.io) is part of a Consent Management Platform that will help you in making all your websites LGPD, CCPA, GDPR (RGPD, DSVGO), PIPEDA, CINIL of France and many other regulations compliant.
 
-This is the best plugin for WordPress websites compliance!
+This is the best plugin for WordPress websites compliance!!!
 
 A [CMP – Consent Management Platform](https://goadopt.io) , helps companies to comply with privacy regulations using technology that manages these consents for each visitor who accesses their websites.
 
