@@ -7,7 +7,7 @@ Stable tag: 1.0.8
 Requires PHP: 7.0
 License: GPLv2 or later
  
-Easy cookie consent banner with multi-regulation support (GDPR, LGPD, CCPA, POPIA, PIPEDA) and auto language detection.
+Easy cookie consent banner with multi-regulation support (GDPR, LGPD, CCPA, PIPEDA, POPIA) and auto language detection.
 
 == Description ==
 
