@@ -3,7 +3,7 @@
   Plugin Name: Adopt
   Author: Adopt
   Author URI:  https://goadopt.io/
-  Version: 1.0.8
+  Version: 1.0.9
   Description: Safe and Intuitive cookie banner in a complete Consent Management Platform. Thousands of companies trust their visitors' consents to AdOpt. Start now and get full website compliance for privacy regulations like GDPR, CCPA, LGPD…
   Text Domain: adopt
 */

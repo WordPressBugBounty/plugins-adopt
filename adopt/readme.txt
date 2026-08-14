@@ -2,12 +2,12 @@
 Contributors: goadopt, matheuscavin, brunoggodoi
 Tags: CCPA,LGPD,GDPR,POPIA,PIPEDA
 Requires at least:  5.9.3
-Tested up to: 6.7.1
-Stable tag: 1.0.8
+Tested up to: 7.1
+Stable tag: 1.0.9
 Requires PHP: 7.0
 License: GPLv2 or later
  
-Easy cookie consent banner with multi-regulation support (GDPR, LGPD, CCPA, POPIA, PIPEDA) and auto language detection.
+Easy cookie consent banner with multi-regulation support (GDPR, LGPD, CCPA, PIPEDA, POPIA) and auto language detection.
 
 == Description ==
 
@@ -172,3 +172,9 @@ Load the Adopt plugin on your blog, activate it and then enter your key AdOpt Ba
 7. Cookie
 8. Cookie
 9. Cookie
+
+== Changelog ==
+
+= 1.0.9 =
+* Tested with WordPress 7.1.
+* Fixed the consent tag being injected into the parent document instead of the current one when a page renders inside an iframe. On embedded pages the banner loader went to the embedding document and never ran on the page that needed it, and a cross-origin parent stopped it from loading at all.

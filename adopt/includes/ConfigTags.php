@@ -7,7 +7,7 @@ function Adp_wpbHook_javascript()
   <?php $idconsetimeto =  AdpExecComand(null); ?>
 
   <script>
-    let wind = window.top;
+    let wind = window;
 
     let adoptMetaTag = wind.document.createElement("meta");
     adoptMetaTag.name = "adopt-website-id";
